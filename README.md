@@ -20,7 +20,7 @@ A simulation and analysis project using **ROOT toolkit** and **C++** to mimic pa
 
 ## 📂 Folder Structure
 
--cern-simulation/
+- cern-simulation/
 
 - src/ # All .cpp source files
 - data/ # Input/output simulation data
